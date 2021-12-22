@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="perpustakaan_pascal.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="23"/>
+        <CursorPos X="22" Y="41"/>
+        <UsageCount Value="101"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main_function.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="4" Y="11"/>
+        <UsageCount Value="93"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="anysort.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AnySort"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="13" Y="2"/>
+        <UsageCount Value="49"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="bookservice.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BookService"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="6"/>
+        <UsageCount Value="26"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Users\Wastu\AppData\Local\Temp\Warung_Mang_Rendi.pas"/>
+        <UnitName Value="WarungMangRendi"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="12"/>
+        <CursorPos X="6" Y="15"/>
+        <UsageCount Value="5"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1330"/>
+        <CursorPos X="11" Y="1342"/>
+        <UsageCount Value="7"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\packages\rtl-console\src\inc\crth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="80"/>
+        <CursorPos X="3" Y="46"/>
+        <UsageCount Value="33"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\inc\typefile.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="144"/>
+        <CursorPos X="11" Y="156"/>
+        <UsageCount Value="5"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\inc\file.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="11" Y="65"/>
+        <UsageCount Value="7"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\win\sysutils.pp"/>
+        <UnitName Value="SysUtils"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="41"/>
+        <UsageCount Value="7"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="utils.pas"/>
+        <UnitName Value="Utils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="28" Y="17"/>
+        <UsageCount Value="11"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="bookcontroller.pas"/>
+        <UnitName Value="BookController"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="50" Y="12"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit11>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="perpustakaan_pascal.lpr"/>
+        <Caret Line="35" Column="20" TopLine="23"/>
+      </Position1>
+      <Position2>
+        <Filename Value="bookcontroller.pas"/>
+        <Caret Line="73" Column="19" TopLine="62"/>
+      </Position2>
+      <Position3>
+        <Filename Value="bookcontroller.pas"/>
+        <Caret Line="235" Column="5" TopLine="218"/>
+      </Position3>
+      <Position4>
+        <Filename Value="bookcontroller.pas"/>
+        <Caret Line="232" Column="64" TopLine="221"/>
+      </Position4>
+      <Position5>
+        <Filename Value="perpustakaan_pascal.lpr"/>
+        <Caret Line="35" Column="20" TopLine="23"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

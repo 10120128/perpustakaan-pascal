@@ -1,0 +1,6 @@
+*.exe
+*.dat
+*.ppu
+*.o
+lib/
+backup/
